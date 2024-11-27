@@ -1,0 +1,12 @@
+D:\VSProjects\OopLab2\XmlManager\bin\Debug\net8.0-windows10.0.19041.0\XmlManager.deps.json
+D:\VSProjects\OopLab2\XmlManager\bin\Debug\net8.0-windows10.0.19041.0\XmlManager.dll
+D:\VSProjects\OopLab2\XmlManager\bin\Debug\net8.0-windows10.0.19041.0\XmlManager.pdb
+D:\VSProjects\OopLab2\XmlManager\obj\Debug\net8.0-windows10.0.19041.0\XmlManager.csproj.AssemblyReference.cache
+D:\VSProjects\OopLab2\XmlManager\obj\Debug\net8.0-windows10.0.19041.0\XmlManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\OopLab2\XmlManager\obj\Debug\net8.0-windows10.0.19041.0\XmlManager.AssemblyInfoInputs.cache
+D:\VSProjects\OopLab2\XmlManager\obj\Debug\net8.0-windows10.0.19041.0\XmlManager.AssemblyInfo.cs
+D:\VSProjects\OopLab2\XmlManager\obj\Debug\net8.0-windows10.0.19041.0\XmlManager.csproj.CoreCompileInputs.cache
+D:\VSProjects\OopLab2\XmlManager\obj\Debug\net8.0-windows10.0.19041.0\XmlManager.dll
+D:\VSProjects\OopLab2\XmlManager\obj\Debug\net8.0-windows10.0.19041.0\refint\XmlManager.dll
+D:\VSProjects\OopLab2\XmlManager\obj\Debug\net8.0-windows10.0.19041.0\XmlManager.pdb
+D:\VSProjects\OopLab2\XmlManager\obj\Debug\net8.0-windows10.0.19041.0\ref\XmlManager.dll

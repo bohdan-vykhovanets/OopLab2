@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+	<xs:element name="Publications">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Publication" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="AuthorRole">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="BeginDate" type="xs:string" />
+										<xs:element name="EndDate" type="xs:string" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="PublicationClient">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Address" type="xs:string" />
+										<xs:element name="Company" type="xs:string" />
+										<xs:element name="Sphere" type="xs:string" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="FullName" type="xs:string" />
+							<xs:element name="Department" type="xs:string" />
+							<xs:element name="Laboratory" type="xs:string" />
+							<xs:element name="Title" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

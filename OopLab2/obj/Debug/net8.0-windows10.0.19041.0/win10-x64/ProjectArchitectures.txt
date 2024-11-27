@@ -1,0 +1,2 @@
+D:\VSProjects\OopLab2\OopLab2\UserInterface.csproj;x64
+D:\VSProjects\OopLab2\XmlManager\XmlManager.csproj;neutral
